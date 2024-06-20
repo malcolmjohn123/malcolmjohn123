@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Malcolm John Tamang</h1>
 <h3 align="center">Data Engineer | Analytics Engineer | </h3>
 
